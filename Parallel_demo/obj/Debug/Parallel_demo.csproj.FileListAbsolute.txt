@@ -1,0 +1,7 @@
+D:\C#pro\Parallel_pro\Parallel_demo\bin\Debug\Parallel_demo.exe.config
+D:\C#pro\Parallel_pro\Parallel_demo\bin\Debug\Parallel_demo.exe
+D:\C#pro\Parallel_pro\Parallel_demo\bin\Debug\Parallel_demo.pdb
+D:\C#pro\Parallel_pro\Parallel_demo\obj\Debug\Parallel_demo.csprojAssemblyReference.cache
+D:\C#pro\Parallel_pro\Parallel_demo\obj\Debug\Parallel_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\Parallel_pro\Parallel_demo\obj\Debug\Parallel_demo.exe
+D:\C#pro\Parallel_pro\Parallel_demo\obj\Debug\Parallel_demo.pdb
